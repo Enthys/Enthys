@@ -1,0 +1,196 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Asen Mihaylov",
+    "label": "Lead Software Engineer",
+    "email": "asenj.mihaylov@gmail.com",
+    "phone": "+359 890 40 1234",
+    "url": "https://github.com/Enthys",
+    "summary": "I am a Senior Software Developer who loves to experiment with new technologies. I am quite comfortable working with legacy systems and software. When presented with a challenge I rarely refuse it. Proficient in TypeScript/NodeJS, Golang and PHP.",
+    "location": {
+      "countryCode": "BG",
+      "address": "Bulgaria"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "asen.mihaylov",
+        "url": "https://www.linkedin.com/in/asen-mihaylov"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "WPX.net",
+      "position": "Lead Software Engineer",
+      "startDate": "2021-03-31",
+      "endDate": "",
+      "highlights": [
+		  "Lead meetings on how to proceed with the project",
+		  "Made design decisions on how features would be implemented",
+		  "Created and assigned tasks to the different team members"
+	  ],
+      "summary": "As a Lead Software Engineer I continued to design the project, educate juniors and write code. In the meanwhile I was also tasked with the project management by having to coordinate the needs of different teams, write those needs in tickets in Jira and assign them to the different developers on the team. I was also tasked with leading the SCRUM meetings and tracking the progress of everyone's tasks.\nTechnical stack: <b>TypeScript</b>, <b>Golang</b>, <b>NestJS</b>,  <b>Docker</b>, <b>RabbitMQ</b>, <b>Vue</b>, <b>Jira</b>",
+      "url": "https://www.linkedin.com/company/10957130",
+      "location": "Sofia, Sofia City, Bulgaria"
+    },
+    {
+      "name": "WPX.net",
+      "position": "Senior TypeScript And Golang Developer",
+      "startDate": "2020-10-31",
+      "endDate": "2021-03-31",
+      "highlights": [
+		  "Taught other members how to use TypeScript and Golang",
+		  "Designed and helped create the infrastructure of the new project",
+		  "Trained the new junior developers in order for them to more easily join the team"
+	  ],
+      "summary": "When the company decided it was time to start rewriting the main project they placed me as the person who should decide on architectural decisions. Created the infrastructure of the new microservices system which would replace the old one progressively.\nTechnical stack: <b>TypeScript</b>, <b>Golang</b>, <b>PHP</b>, <b>Symfony</b>, <b>NestJS</b>, <b>Vue</b>, <b>Docker</b>, <b>RabbitMQ</b>",
+      "url": "https://www.linkedin.com/company/10957130",
+      "location": "Sofia, Bulgaria"
+    },
+    {
+      "name": "WPX Hosting",
+      "position": "PHP Developer",
+      "startDate": "2019-04-30",
+      "endDate": "2020-09-30",
+      "highlights": [
+		  "Helped develop the system architecture which allowed us to more easily create new features.",
+		  "Created new functionalities for both support members and clients."
+	  ],
+      "summary": "During my first year and a half at WPX Hosting I helped support and upgrade the old system which the company and clients used and helped develop a framework within a framework structure which eased the development process.\nTechnical stack: <b>PHP</b>, <b>MySQL</b>, <b>JavaScript</b>",
+      "url": "https://www.linkedin.com/company/10957130",
+      "location": "Sofia, Bulgaria"
+    },
+    {
+      "name": "Neterra",
+      "position": "PHP Developer",
+      "startDate": "2019-01-14",
+      "endDate": "2019-03-31",
+      "highlights": [
+		  "Raise their project framework version from Laravel 4 to 6.",
+		  "WebSocket integration for client notifications",
+		  "Archivation system which archived smoothly more than 7 million records"
+	  ],
+      "summary": "During my time at Neterra I was placed in their Netfleet project which tracked different company vehicles through GPS.\nLeft the company due a poor company culture fit.\nTechnical stack: <b>PHP</b>, <b>MySQL</b>, <b>Laravel</b>, <b>JavaScript</b>",
+      "url": "https://www.linkedin.com/company/70174",
+      "location": "Sofia, Bulgaria"
+    },
+    {
+      "name": "XS Software",
+      "position": "PHP Developer",
+      "startDate": "2017-05-31",
+      "endDate": "2018-12-31",
+      "highlights": [
+		  "Rewrote the Quest system which was responsible for revealing different parts of the UI and progressing in the game.",
+		  "Created the unit testing environment for the project."
+	  ],
+      "summary": "My first job as a Software Developer on the browser game 'KhanWars'. I was responsible for fixing bugs and creating multiple features which improved the player's gameplay.\nTechnicla stack: <b>PHP</b>, <b>MySQL</b>, <b>PHPUnit</b>, <b>JavaScript</b>",
+      "url": "https://www.linkedin.com/company/389085",
+      "location": "Sofia, Bulgaria"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Software University (softuni.bg)",
+      "area": "Computer Programming/Programmer, General",
+      "studyType": "",
+      "startDate": "2015-12-31",
+      "endDate": "2018-12-31",
+      "score": "",
+      "courses": [
+		  "PHP Module",
+		  "C++ for Game Development",
+		  "JavaScript web"
+	  ],
+	  "summary": "I began SoftUni while still in high-school 10th grade with 'C++ for Game Development'. Later on, 11th grade I started the SoftUni PHP Module where I developed a few web based projects. Through the SoftUni career center I was able to land my first job at XS-Software."
+    },
+    {
+      "institution": "NPGPTO \"M.V.Lomonosov\"",
+      "area": "Computer Science",
+      "studyType": "Secondary Education",
+      "startDate": "2012-12-31",
+      "endDate": "2016-12-31",
+      "score": "5.15",
+      "courses": ["C++ Basics", "HTML/CSS/JS Basics"]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Course Certificate: Programming Basics",
+      "issuer": "Software University (softuni.bg)",
+      "startDate": "2016-03-31",
+      "url": "https://softuni.bg/certificates/details/8530/e7b97d99"
+    },
+    {
+      "name": "C++ Programming",
+      "issuer": "Software University (softuni.bg)",
+      "startDate": "2016-08-31",
+      "url": "https://softuni.bg/certificates/details/13126/b685bca8"
+    },
+    {
+      "name": "Software Technologies",
+      "issuer": "Software University (softuni.bg)",
+      "startDate": "2016-12-31",
+      "url": "https://softuni.bg/certificates/details/16178/a3be6c1e"
+    },
+    {
+      "name": "Programming Fundamentals",
+      "issuer": "Software University (softuni.bg)",
+      "startDate": "2016-06-30",
+      "url": "https://softuni.bg/certificates/details/10827/73bd441d"
+    },
+    {
+      "name": "Professional Scrum Master",
+      "issuer": "New Horizons Computer Learning Centers",
+      "startDate": "2019-09-30"
+    },
+    {
+      "name": "Cambridge English Level 3 Certificate in ESOL International(Advanced)*",
+      "issuer": "Cambridge Assessment English",
+      "startDate": "2019-08-31"
+    }
+  ],
+  "skills": [
+	{
+      "name": "Backend",
+	  "keywords": [
+		  "TypeScript/NodeJS",
+		  "Golang",
+		  "NestJS",
+		  "Jest",
+		  "PHP",
+		  "Symfony",
+		  "MySQL",
+		  "PostgreSQL",
+		  "Redis"
+	  ]
+	},
+	{
+		"name": "Frontend",
+		"keywords": [
+			"Vue",
+			"HTML/CSS/SASS/SCSS",
+			"jQuery",
+			"Bootstrap"
+		]
+	},
+	{
+		"name": "Others",
+		"keywords": [
+			"RabbitMQ",
+			"Docker",
+			"WebSockets",
+			"Jira",
+			"Git",
+			"JWT",
+			"Linux",
+			"Microservices"
+		]
+	}
+  ],
+  "meta": {
+    "version": "v1.0.0",
+	"theme": "stackoverflow",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}

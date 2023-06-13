@@ -1,0 +1,16 @@
+{
+  "name": "enthys.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "resume export index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonresume-theme-stackoverflow": "^2.0.2",
+    "resume-cli": "^3.0.8"
+  }
+}

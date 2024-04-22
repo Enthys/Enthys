@@ -21,10 +21,20 @@
   },
   "work": [
     {
+      "name": "KPMG",
+      "position": "Senior Software Engineer",
+      "startDate": "2024-03-01",
+      "endDate": "",
+      "highlights": [ "N/A" ],
+      "summary": "N/A",
+      "url": "https://www.linkedin.com/company/10957130",
+      "location": "Sofia, Sofia City, Bulgaria"
+    },
+    {
       "name": "WPX.net",
       "position": "Lead Software Engineer",
       "startDate": "2021-03-31",
-      "endDate": "",
+      "endDate": "2024-02-29",
       "highlights": [
 		  "Lead meetings on how to proceed with the project",
 		  "Made design decisions on how features would be implemented",

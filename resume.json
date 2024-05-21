@@ -2,11 +2,11 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Asen Mihaylov",
-    "label": "Lead Software Engineer",
+    "label": "Senior Software Engineer",
     "email": "asenj.mihaylov@gmail.com",
     "phone": "+359 890 40 1234",
     "url": "https://github.com/Enthys",
-    "summary": "I am a Senior Software Developer who loves to experiment with new technologies. I am quite comfortable working with legacy systems and software. When presented with a challenge I rarely refuse it. Proficient in TypeScript/NodeJS, Golang and PHP.",
+    "summary": "I am a Senior Software Developer who loves to experiment with new technologies. I am quite comfortable working with legacy systems and software. When presented with a challenge I rarely refuse it. Proficient in TypeScript, Node.js, Golang and PHP.",
     "location": {
       "countryCode": "BG",
       "address": "Bulgaria"
@@ -24,7 +24,6 @@
       "name": "KPMG",
       "position": "Senior Software Engineer",
       "startDate": "2024-03-01",
-      "endDate": "",
       "highlights": [ "N/A" ],
       "summary": "N/A",
       "url": "https://www.linkedin.com/company/kpmg-bulgaria",
@@ -172,13 +171,15 @@
 		  "Symfony",
 		  "MySQL",
 		  "PostgreSQL",
-		  "Redis"
+		  "Redis",
+		  "BoltDB"
 	  ]
 	},
 	{
 		"name": "Frontend",
 		"keywords": [
 			"Vue",
+			"React",
 			"HTML/CSS/SASS/SCSS",
 			"jQuery",
 			"Bootstrap"
